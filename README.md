@@ -1,7 +1,7 @@
 # Analyzing Life Expectancy and GDP
 This project's starter files were provided by Codecademy Data Analytics Career Path. The starter file contains data between 2000 and 2015 for 6 different counties, containing GDP information and life expectancy rates.
 
-#### -- Project Status: []
+#### -- Project Status: [Complete] --
 
 ## Abstract
 The purpose of this project is to practice visualization and analysis. Given this small data, summary statistics were not performed, and visualizations were created to quickly describe the dataset.
