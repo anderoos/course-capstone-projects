@@ -26,7 +26,7 @@ The purpose of this project is to practice visualization and analysis. Given thi
 ![alt-text](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/Images/life_expectancy_prediction.png)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [life_expectancy_gdp.ipynb]([link](https://github.com/anderoos/dv-life-expectancy-gdp/blob/main/life_expectancy_gdp.ipynb))
+* [life_expectancy_gdp.ipynb](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/life_expectancy_gdp.ipynb)
 
 
 ## Contributors
