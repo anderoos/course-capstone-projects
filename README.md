@@ -1,6 +1,4 @@
 # Course Capstone Projects
-##### Andrew Cheng
-
 ## About
 This repository is an aggregate of smaller course-related capstone projects, associated with courses from Codecademy and Coursera. The goal of this repository is to reduce repository clutter and showcase achievements in my journey of data science and analytics. This repo is a compliment of my coursework from [Columbia Data Analytics Bootcamp](https://github.com/anderoos/columbia-data-bootcamp).
 
