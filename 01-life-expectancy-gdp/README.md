@@ -14,16 +14,16 @@ The purpose of this project is to practice visualization and analysis. Given thi
 
 ## Conclusions
 * Between 2000 and 2015, Germany had the highest life expectancy, followed by Chile, then USA.
-![alt-text](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/Images/life_expectancy_scatter_vs_gdp.png)
+![alt-text](https://github.com/anderoos/course-capstone-projects/blob/main/01-life-expectancy-gdp/Images/life_expectancy_scatter_vs_gdp.png)
 
 * Zimbabwe had the lowest life expectancy in this dataset during this period.
-![alt-text](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/Images/life_expectancy_linevs_gdp.png)
+![alt-text](https://github.com/anderoos/course-capstone-projects/blob/main/01-life-expectancy-gdp/Images/life_expectancy_linevs_gdp.png)
 
 * Life expectancy in this dataset floats around 70 to 80.
-![alt-text](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/Images/life_expectancy_by_year.png)
+![alt-text](https://github.com/anderoos/course-capstone-projects/blob/main/01-life-expectancy-gdp/Images/life_expectancy_by_year.png)
 
 * Chile has a high life expectancy rate despite having lower GDP compared to USA, Germany and China
-![alt-text](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/Images/life_expectancy_prediction.png)
+![alt-text](https://github.com/anderoos/course-capstone-projects/blob/main/01-life-expectancy-gdp/Images/life_expectancy_prediction.png)
 
 ## Featured Notebooks/Analysis/Deliverables
 * [life_expectancy_gdp.ipynb](https://github.com/anderoos/dv-life-Expectancy-and-GDP-Starter/blob/main/life_expectancy_gdp.ipynb)
